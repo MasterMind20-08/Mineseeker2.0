@@ -1,0 +1,12 @@
+﻿  Main.cpp
+d:\sapper\project1\main.cpp(68): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\sapper\project1\main.cpp(77): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Project1.vcxproj -> D:\Sapper\Project1\x64\Debug\Project1.exe
